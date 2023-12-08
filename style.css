@@ -366,7 +366,7 @@ form input {
 }
 #fullnamemsg,
 #emailmsg,
-#phonemsg {
+#passmsg {
   margin-bottom: 5rem;
   color: red;
 }
